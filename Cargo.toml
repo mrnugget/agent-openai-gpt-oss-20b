@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 openai_api_rust = "0.1.9"
+openai-harmony = { git = "https://github.com/openai/harmony" }
+anyhow = "1.0"
