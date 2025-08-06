@@ -1,0 +1,7 @@
+[package]
+name = "agent-openai-gpt-oss-20b"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+openai_api_rust = "0.1.9"
