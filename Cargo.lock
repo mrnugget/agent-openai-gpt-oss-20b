@@ -24,6 +24,7 @@ dependencies = [
  "anyhow",
  "openai-harmony",
  "openai_api_rust",
+ "serde_json",
 ]
 
 [[package]]
